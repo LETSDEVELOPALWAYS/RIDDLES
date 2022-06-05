@@ -76,3 +76,19 @@ YOU HAVE TO BE THINKING TO SOLVE THESE RIDDLES
 
 
       <div id="Answers">
+
+        <br></br>
+
+     <a href="./about.html"> ANSWERS </a>
+
+        <h1>More Websites:</h1>
+
+      <p>My websie about facts: https://wwwfactscouk.nevinsaabu.repl.co</p>
+        <p> My website about how to download games that you want: https://SowtwareTech.nevinsaabu.repl.co  </p>
+        
+        
+  </div>
+  <script src="script.js"></script>
+</body>
+
+</html>
